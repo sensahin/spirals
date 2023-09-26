@@ -7,6 +7,8 @@ const nextConfig = {
     domains: [
       "xd2kcvzsdpeyx1gu.public.blob.vercel-storage.com",
       "replicate.delivery",
+      "spirals-kappa.vercel.app",
+      "https://spirals-kappa.vercel.app"
     ],
   },
   async redirects() {
