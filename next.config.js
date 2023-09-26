@@ -13,6 +13,7 @@ const nextConfig = {
       "vital-boxer-31305.kv.vercel-storage.com:31305",
       "vital-boxer-31305.kv.vercel-storage.com",
       "vercel-storage.com",
+      "54FbthI1M2t7MbYO.public.blob.vercel-storage.com",
     ],
   },
   async redirects() {
