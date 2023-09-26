@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   title: "Atatürk Silüeti Oluşturucu",
   description:
     "Yapay zeka kullanarak Atatürk silüeti oluşturabilirsiniz. Atatürk'ün fotoğrafını yükleyin, Atatürk'ün silüetini oluşturun.",
-  metadataBase: new URL("https://spirals.vercel.app"),
+  metadataBase: new URL("https://atasilueti.com"),
 };
 
 export default function RootLayout({

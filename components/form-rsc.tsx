@@ -1,5 +1,4 @@
 import Form from "@/components/form";
-import { Twitter } from "@/components/icons";
 import PhotoBooth from "@/components/photo-booth";
 import { CountDisplay, GeneratedCount } from "./generated-count";
 import { Suspense } from "react";
@@ -25,7 +24,7 @@ export default function FormRSC({
         className="mt-6 animate-fade-up text-center text-gray-500 opacity-0 [text-wrap:balance] md:text-xl"
         style={{ animationDelay: "0.25s", animationFillMode: "forwards" }}
       >
-        Yapay zeka kullanarak Atatürk silüeti oluşturabilirsiniz.
+        Yapay zeka kullanarak Atatürk silüeti oluşturabilirsiniz. Arka plan seçip hazır promptlardan kullanabilirsiniz ya da kendi promptunuzu yazabilirsiniz.
       </p>
       <Form promptValue={prompt} patternValue={pattern} />
       <Suspense fallback={<CountDisplay />}>

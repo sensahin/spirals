@@ -16,8 +16,8 @@ export async function generateMetadata({
   }
 
   const title = `Silüet: ${data.prompt}`;
-  const description = `A spiral generated from the prompt: ${data.prompt}`;
-  const image = data.image || "https://spirals.vercel.app/opengraph-image.png";
+  const description = `Bu prompt kullanilarak Ataturk silueti olusturuldu: ${data.prompt}`;
+  const image = data.image || "https://atasilueti.com/opengraph-image.jpg";
 
   return {
     title,
@@ -30,7 +30,7 @@ export async function generateMetadata({
       card: "summary_large_image",
       title,
       description,
-      creator: "@steventey",
+      creator: "@sengpt",
     },
   };
 }
