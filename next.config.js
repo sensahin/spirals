@@ -8,7 +8,11 @@ const nextConfig = {
       "xd2kcvzsdpeyx1gu.public.blob.vercel-storage.com",
       "replicate.delivery",
       "spirals-kappa.vercel.app",
-      "https://spirals-kappa.vercel.app"
+      "https://spirals-kappa.vercel.app",
+      "https://vital-boxer-31305.kv.vercel-storage.com",
+      "vital-boxer-31305.kv.vercel-storage.com:31305",
+      "vital-boxer-31305.kv.vercel-storage.com",
+      "vercel-storage.com"
     ],
   },
   async redirects() {
