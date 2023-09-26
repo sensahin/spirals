@@ -39,7 +39,7 @@ https://github.com/steven-tey/spirals/assets/28986134/9f0202d4-2a31-47a0-b43f-bd
 - [Vercel KV](https://vercel.com/storage/kv) for redis
 - [`promptmaker`](https://github.com/zeke/promptmaker) lib by @zeke for generating random prompts
 
-## Deploy Your Own
+## Deploy Your Ownn
 
 You can deploy this template to Vercel with the button below:
 
