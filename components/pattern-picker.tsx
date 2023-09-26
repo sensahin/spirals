@@ -4,10 +4,10 @@ import { Dispatch, SetStateAction, useState } from "react";
 import { toast } from "sonner";
 
 const patterns = [
-  "https://xd2kcvzsdpeyx1gu.public.blob.vercel-storage.com/8uiaWqu-77Maq6Zn38dfz9iWwXsyaheFfOSJPL.png",
-  "https://xd2kcvzsdpeyx1gu.public.blob.vercel-storage.com/vercel-RaEAI0uDphGrSl0a7lCcNhdKO7dNKT.png",
-  "https://xd2kcvzsdpeyx1gu.public.blob.vercel-storage.com/react-58b3JHEzb6qWG20KYl944yW7V72CGo.png",
-  "https://xd2kcvzsdpeyx1gu.public.blob.vercel-storage.com/logo-wfAh7QadApCiJ1tu7EVOsILwGBQ1wz.png",
+  "https://54fbthi1m2t7mbyo.public.blob.vercel-storage.com/ataturk-DSCifEdJOX3qp7HPOVckvMnKSFOSIc.png",
+  "https://54fbthi1m2t7mbyo.public.blob.vercel-storage.com/c86abbc2c3f9c5dd31e9b1cdae2d04f7-xZGeqB37s9KjYWW2PcrVjK8OsE9zGl.jpg",
+  "https://54fbthi1m2t7mbyo.public.blob.vercel-storage.com/78ac2407caf948136987fa1a401da48f-ZEb9vWhJoUOdXdqULHh6qoHAbSCDZK.jpg",
+  "https://54fbthi1m2t7mbyo.public.blob.vercel-storage.com/41GT-oH10cL._AC_UF894,1000_QL80_-9RFELvKJ4buwB03X1zoPZQ8AFZlnnU.jpg",
 ];
 
 export default function PatternPicker({
