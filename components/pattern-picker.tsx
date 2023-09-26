@@ -23,7 +23,7 @@ export default function PatternPicker({
     <div className="w-full overflow-auto md:max-w-xl">
       <div className="p-4">
         <p className="py-2 font-display text-xl text-gray-700">
-          Choose a pattern
+          Arka plan seçin
         </p>
         <div className="grid grid-cols-4 gap-3">
           {patterns.map((p) => (
@@ -50,10 +50,9 @@ export default function PatternPicker({
       <div className="border-t border-gray-300" />
       <div className="flex items-center justify-between p-4">
         <div className="flex-1">
-          <p className="font-display text-xl text-gray-700">Upload your own</p>
+          <p className="font-display text-xl text-gray-700">Bilgisayardan yükleyin</p>
           <p className="py-2 text-sm text-gray-500">
-            Recommended: Square (1:1) ratio, with a black and white color
-            scheme. You can also drag and drop an image here.
+          Tavsiye Edilen: Kare (1:1) oranı, siyah ve beyaz fotoğraf. Ayrıca fotoğrafı buraya sürükleyip bırakabilirsiniz.
           </p>
         </div>
         <label

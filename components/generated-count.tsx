@@ -12,7 +12,7 @@ export const CountDisplay = ({ count }: { count?: number }) => {
       className="mt-4 animate-fade-up text-center text-sm text-gray-500 opacity-0"
       style={{ animationDelay: "0.35s", animationFillMode: "forwards" }}
     >
-      {count ? nFormatter(count) : "..."} photos generated and counting!
+      Şu ana kadar {count ? nFormatter(count) : "..."} Atatürk silüeti oluşturuldu ve sayı artıyor!
     </p>
   );
 };

@@ -123,7 +123,7 @@ export default function PhotoBooth({ image }: { image: string | null }) {
               style={{ animationDelay: "0.5s", animationFillMode: "forwards" }}
             >
               <p className="text-sm text-gray-500">
-                This can take anywhere between 20s-30s to run.
+               Yaklaşık 20-30 saniye sürmesi lazım.
               </p>
             </div>
           )}

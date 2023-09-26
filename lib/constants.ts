@@ -6,4 +6,4 @@ export const WEBHOOK_URL =
     : `${process.env.NGROK_URL}/api/webhook`;
 
 export const DEFAULT_PATTERN =
-  "https://xd2kcvzsdpeyx1gu.public.blob.vercel-storage.com/8uiaWqu-77Maq6Zn38dfz9iWwXsyaheFfOSJPL.png";
+  "https://54fbthi1m2t7mbyo.public.blob.vercel-storage.com/QsoHp2g-gPCuOPrG36ue2aV9SjKKLmGGdIvrjO.png";
